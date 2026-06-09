@@ -15,8 +15,10 @@ Các thông số được giám sát:
 Hệ thống bao gồm:
 
 - 01 node Master
-- Các node cảm biến dữ liệu 
-![Master](Documents/Diagrams/sơ đồ tổng quan.drawio.svg)
+- Các node cảm biến dữ liệu
+
+![Master](Documents/Diagrams/Sơ_đồ_tổng_quan.drawio.svg)
+
 ### Nút đo điện năng
 
 - Cảm biến PZEM-004T
